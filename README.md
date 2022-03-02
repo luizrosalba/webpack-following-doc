@@ -6,3 +6,12 @@ following https://webpack.js.org/guides/getting-started/
 
 
 - npx webpack 
+
+
+## Adding webpack config 
+
+- npx webpack --config webpack.config.js
+
+## Adding setup 
+
+
